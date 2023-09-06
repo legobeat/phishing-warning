@@ -1701,7 +1701,7 @@ __metadata:
     "@playwright/test": ^1.30.0
     "@testing-library/dom": ^8.13.0
     "@testing-library/user-event": ^14.1.1
-    "@types/node": ^17.0.23
+    "@types/node": ^14.18.58
     "@types/pump": ^1.1.1
     "@types/punycode": ^2.1.0
     "@types/readable-stream": ^2.3.13
@@ -2111,10 +2111,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/node@npm:^17.0.23":
-  version: 17.0.45
-  resolution: "@types/node@npm:17.0.45"
-  checksum: aa04366b9103b7d6cfd6b2ef64182e0eaa7d4462c3f817618486ea0422984c51fc69fd0d436eae6c9e696ddfdbec9ccaa27a917f7c2e8c75c5d57827fe3d95e8
+"@types/node@npm:^14.18.58":
+  version: 14.18.58
+  resolution: "@types/node@npm:14.18.58"
+  checksum: 45767bb137acdd1d1486bcce279d149ab1c44089401f124e8b7044f4cd7511aa841ae8fac030e81b988b45df21cfb4eca44281c6d7f75c87f803748a30cb9043
   languageName: node
   linkType: hard
 
