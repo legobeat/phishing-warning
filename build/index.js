@@ -1,6 +1,6 @@
 const { createWriteStream, promises: fs } = require('fs');
 const path = require('path');
-const { pipeline } = require('stream/promises');
+const { pipeline } = require('readable-stream');
 const browserify = require('browserify');
 const minifyStream = require('minify-stream');
 const exorcist = require('exorcist');
